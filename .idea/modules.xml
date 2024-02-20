@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BinarySearch/BinarySearch.iml" filepath="$PROJECT_DIR$/BinarySearch/BinarySearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaArrays/JavaArrays.iml" filepath="$PROJECT_DIR$/JavaArrays/JavaArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QueueImplementation/QueueImplementation.iml" filepath="$PROJECT_DIR$/QueueImplementation/QueueImplementation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/QuickSort/QuickSort.iml" filepath="$PROJECT_DIR$/QuickSort/QuickSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecursionProblems/RecursionProblems.iml" filepath="$PROJECT_DIR$/RecursionProblems/RecursionProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Selectionsort/Selectionsort.iml" filepath="$PROJECT_DIR$/Selectionsort/Selectionsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SortingComparision/SortingComparision.iml" filepath="$PROJECT_DIR$/SortingComparision/SortingComparision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stack/Stack.iml" filepath="$PROJECT_DIR$/Stack/Stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/countingSort/countingSort.iml" filepath="$PROJECT_DIR$/countingSort/countingSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/insertionsort/insertionsort.iml" filepath="$PROJECT_DIR$/insertionsort/insertionsort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mergeSort/mergeSort.iml" filepath="$PROJECT_DIR$/mergeSort/mergeSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/radixSort/radixSort.iml" filepath="$PROJECT_DIR$/radixSort/radixSort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/squareofarray/squareofarray.iml" filepath="$PROJECT_DIR$/squareofarray/squareofarray.iml" />
+    </modules>
+  </component>
+</project>
